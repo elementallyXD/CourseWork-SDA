@@ -1,0 +1,24 @@
+﻿  VectorSort.c
+d:\projects\course_cda\coursework\coursework\vectorsort.c(52): warning C4101: 'b': unreferenced local variable
+  OutVector.c
+d:\projects\course_cda\coursework\coursework\outvector.c(7): warning C4013: 'printf' undefined; assuming extern returning int
+  OutArray.c
+d:\projects\course_cda\coursework\coursework\outarray.c(10): warning C4013: 'printf' undefined; assuming extern returning int
+  Menu.c
+d:\projects\course_cda\coursework\coursework\menu.c(20): warning C4013: 'system' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(56): warning C4013: 'exit' undefined; assuming extern returning int
+  Time.c
+  Main.c
+d:\projects\course_cda\coursework\coursework\main.c(9): warning C4013: 'system' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(11): warning C4013: 'srand' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(11): warning C4013: 'time' undefined; assuming extern returning int
+  InputeVector.c
+d:\projects\course_cda\coursework\coursework\inputevector.c(17): warning C4013: 'rand' undefined; assuming extern returning int
+  InputeArray.c
+d:\projects\course_cda\coursework\coursework\inputearray.c(23): warning C4013: 'rand' undefined; assuming extern returning int
+  ArraySort.c
+d:\projects\course_cda\coursework\coursework\arraysort.c(6): warning C4101: 'j': unreferenced local variable
+d:\projects\course_cda\coursework\coursework\arraysort.c(106): warning C4101: 'b': unreferenced local variable
+  Generating Code...
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\Debug\CourseWork.exe
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\Debug\CourseWork.pdb (Partial PDB)

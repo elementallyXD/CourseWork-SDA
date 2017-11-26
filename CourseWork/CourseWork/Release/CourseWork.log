@@ -1,0 +1,15 @@
+﻿  Main.c
+Main.c(9): warning C4013: 'system' undefined; assuming extern returning int
+Main.c(11): warning C4013: 'srand' undefined; assuming extern returning int
+Main.c(11): warning C4013: 'time' undefined; assuming extern returning int
+  Menu.c
+Menu.c(20): warning C4013: 'system' undefined; assuming extern returning int
+Menu.c(56): warning C4013: 'exit' undefined; assuming extern returning int
+  Time.c
+  Generating code
+  18 of 40 functions (45.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\Release\CourseWork.exe
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\Release\CourseWork.pdb (Full PDB)

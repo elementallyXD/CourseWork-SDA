@@ -1,0 +1,49 @@
+﻿  VectorSort.c
+d:\projects\course_cda\coursework\coursework\vectorsort.c(52): warning C4101: 'b': unreferenced local variable
+  Time.c
+d:\projects\course_cda\coursework\coursework\time.c(102): warning C4013: 'InputMass' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(103): warning C4013: 'Sort_5' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(120): warning C4013: 'Sort_6' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(138): warning C4013: 'Sort_18' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(155): warning C4013: 'Sort_19' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(171): warning C4013: 'InputeVector' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(172): warning C4013: 'Select1Vect' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(189): warning C4013: 'Select2Vect' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(206): warning C4013: 'Sel1Ex' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\time.c(222): warning C4013: 'Sel2Ex' undefined; assuming extern returning int
+  OutVector.c
+d:\projects\course_cda\coursework\coursework\outvector.c(7): warning C4013: 'printf' undefined; assuming extern returning int
+  OutArray.c
+d:\projects\course_cda\coursework\coursework\outarray.c(10): warning C4013: 'printf' undefined; assuming extern returning int
+  Menu.c
+d:\projects\course_cda\coursework\coursework\menu.c(13): warning C4013: 'system' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(49): warning C4013: 'exit' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(101): warning C4013: 'InputeVector' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(120): warning C4013: 'OutputVector' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(121): warning C4013: 'Select1Vect' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(131): warning C4013: 'Select2Vect' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(141): warning C4013: 'Sel1Ex' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(151): warning C4013: 'Sel2Ex' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(173): warning C4013: 'InputMass' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(192): warning C4013: 'OutputMass' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(193): warning C4013: 'Sort_5' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(203): warning C4013: 'Sort_6' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(213): warning C4013: 'Sort_18' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\menu.c(223): warning C4013: 'Sort_19' undefined; assuming extern returning int
+  Main.c
+d:\projects\course_cda\coursework\coursework\main.c(8): warning C4013: 'system' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(10): warning C4013: 'srand' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(10): warning C4013: 'time' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(12): warning C4013: 'zastavka' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(13): warning C4013: 'menu' undefined; assuming extern returning int
+d:\projects\course_cda\coursework\coursework\main.c(15): warning C4013: '_getch' undefined; assuming extern returning int
+  InputeVector.c
+d:\projects\course_cda\coursework\coursework\inputevector.c(17): warning C4013: 'rand' undefined; assuming extern returning int
+  InputeArray.c
+d:\projects\course_cda\coursework\coursework\inputearray.c(23): warning C4013: 'rand' undefined; assuming extern returning int
+  ArraySort.c
+d:\projects\course_cda\coursework\coursework\arraysort.c(6): warning C4101: 'j': unreferenced local variable
+d:\projects\course_cda\coursework\coursework\arraysort.c(106): warning C4101: 'b': unreferenced local variable
+  Generating Code...
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\x64\Debug\CourseWork.exe
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\x64\Debug\CourseWork.pdb (Partial PDB)

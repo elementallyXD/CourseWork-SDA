@@ -1,0 +1,53 @@
+﻿  ArraySort.c
+ArraySort.c(6): warning C4101: 'j': unreferenced local variable
+ArraySort.c(106): warning C4101: 'b': unreferenced local variable
+  InputeArray.c
+InputeArray.c(23): warning C4013: 'rand' undefined; assuming extern returning int
+  InputeVector.c
+InputeVector.c(17): warning C4013: 'rand' undefined; assuming extern returning int
+  Main.c
+Main.c(8): warning C4013: 'system' undefined; assuming extern returning int
+Main.c(10): warning C4013: 'srand' undefined; assuming extern returning int
+Main.c(10): warning C4013: 'time' undefined; assuming extern returning int
+Main.c(12): warning C4013: 'zastavka' undefined; assuming extern returning int
+Main.c(13): warning C4013: 'menu' undefined; assuming extern returning int
+Main.c(15): warning C4013: '_getch' undefined; assuming extern returning int
+  Menu.c
+Menu.c(13): warning C4013: 'system' undefined; assuming extern returning int
+Menu.c(49): warning C4013: 'exit' undefined; assuming extern returning int
+Menu.c(101): warning C4013: 'InputeVector' undefined; assuming extern returning int
+Menu.c(120): warning C4013: 'OutputVector' undefined; assuming extern returning int
+Menu.c(121): warning C4013: 'Select1Vect' undefined; assuming extern returning int
+Menu.c(131): warning C4013: 'Select2Vect' undefined; assuming extern returning int
+Menu.c(141): warning C4013: 'Sel1Ex' undefined; assuming extern returning int
+Menu.c(151): warning C4013: 'Sel2Ex' undefined; assuming extern returning int
+Menu.c(173): warning C4013: 'InputMass' undefined; assuming extern returning int
+Menu.c(192): warning C4013: 'OutputMass' undefined; assuming extern returning int
+Menu.c(193): warning C4013: 'Sort_5' undefined; assuming extern returning int
+Menu.c(203): warning C4013: 'Sort_6' undefined; assuming extern returning int
+Menu.c(213): warning C4013: 'Sort_18' undefined; assuming extern returning int
+Menu.c(223): warning C4013: 'Sort_19' undefined; assuming extern returning int
+  OutArray.c
+OutArray.c(10): warning C4013: 'printf' undefined; assuming extern returning int
+  OutVector.c
+OutVector.c(7): warning C4013: 'printf' undefined; assuming extern returning int
+  Time.c
+Time.c(102): warning C4013: 'InputMass' undefined; assuming extern returning int
+Time.c(103): warning C4013: 'Sort_5' undefined; assuming extern returning int
+Time.c(120): warning C4013: 'Sort_6' undefined; assuming extern returning int
+Time.c(138): warning C4013: 'Sort_18' undefined; assuming extern returning int
+Time.c(155): warning C4013: 'Sort_19' undefined; assuming extern returning int
+Time.c(171): warning C4013: 'InputeVector' undefined; assuming extern returning int
+Time.c(172): warning C4013: 'Select1Vect' undefined; assuming extern returning int
+Time.c(189): warning C4013: 'Select2Vect' undefined; assuming extern returning int
+Time.c(206): warning C4013: 'Sel1Ex' undefined; assuming extern returning int
+Time.c(222): warning C4013: 'Sel2Ex' undefined; assuming extern returning int
+  VectorSort.c
+VectorSort.c(52): warning C4101: 'b': unreferenced local variable
+  Generating code
+  29 of 40 functions (72.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\x64\Release\CourseWork.exe
+  CourseWork.vcxproj -> D:\Projects\Course_CDA\CourseWork\x64\Release\CourseWork.pdb (Full PDB)
